@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+.heading {
+  margin: 50px 0;
+  text-align: center;
+  align-content: center;
+  font-size: xx-large;
+  font-weight: 900;
+  color: blueviolet;
+}
+.imageAlign {
+  margin-top: 100px;
+  flex-direction: row;
+  align-items: center;
+}
+#computer-choice {
+  color: chocolate;
+}
+#my-choice {
+  color: rgb(63, 30, 210);
+}
+#result {
+  color: rgb(238, 179, 15);
+}
+
+#rock {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+}
+#paper {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+}
+#scissor {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+}

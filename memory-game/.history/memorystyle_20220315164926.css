@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+#grid {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+#grid img {
+  width: 150px;
+  height: 150px;
+  padding: 1px 1px;
+}

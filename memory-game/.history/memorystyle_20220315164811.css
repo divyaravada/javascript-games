@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+#grid {
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  border: 1px solid black;
+}
+#grid img {
+  width: 220px;
+  height: 220px;
+  padding: 0.5px;
+}
